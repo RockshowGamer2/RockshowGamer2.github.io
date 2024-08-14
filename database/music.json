@@ -1,6 +1,8 @@
-[
-  {
-    "music": "test",
-    "length" : "test",
-  }
-]
+{
+  "items": [
+    {
+      "music": "test",
+      "length" : 23
+    }
+  ]
+}
